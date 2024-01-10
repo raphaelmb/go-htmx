@@ -58,5 +58,5 @@ func main() {
 		return c.NoContent(http.StatusOK)
 	})
 
-	e.Logger.Fatal(e.Start(":42069"))
+	e.Logger.Fatal(e.Start(":8080"))
 }
