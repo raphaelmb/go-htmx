@@ -1,4 +1,4 @@
-#go-htmx
+# go-htmx
 
 This is just a small test project on [htmx](https://htmx.org/).
 
